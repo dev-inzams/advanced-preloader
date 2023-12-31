@@ -7,7 +7,7 @@
 
 <h1>Example</h1>
 <code>
-	showLoader();
+    showLoader();
     let res = await axios.post('/update-profile', postObj)
     hideLoader();
 </code>
@@ -24,13 +24,13 @@
 <h1>Use for page loader</h1>
 <p>Just Add This code in js file</p>
 <code>
-	document.addEventListener("DOMContentLoaded", function () {
-  		showLoader();
-  		// Simulate content loading
-	  setTimeout(function () {
-	    hideLoader();
-	  }, 1000); // Adjust the time based on your needs
-	});
+     document.addEventListener("DOMContentLoaded", function () {
+  	showLoader();
+       // Simulate content loading
+	setTimeout(function () {
+	   hideLoader();
+	}, 1000); // Adjust the time based on your needs
+    });
 </code>
 <p>If you want you can customize this timing</p>
 
