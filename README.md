@@ -34,9 +34,9 @@
 </code>
 <p>If you want you can customize this timing</p>
 
-<h3>Thank You SO Much</h3>
+<h3>Thank You So Much</h3>
 <p>Md. Inzamam-Ul Huq</p>
 <ul>
 	<li>Facebook: www.facebook.com/developerinzams</li>
-	<li>Facebook: www.youtube.com/c/developerinzams</li>
+	<li>Youtube: www.youtube.com/c/developerinzams</li>
 </ul>
